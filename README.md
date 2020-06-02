@@ -1,2 +1,2 @@
 # regu3er
- Segunda oportunidad
+ segunda oportunidad
