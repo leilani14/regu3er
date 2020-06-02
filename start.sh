@@ -1,1 +1,1 @@
-index.php
+php index.php
